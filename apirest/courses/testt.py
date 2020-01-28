@@ -1,0 +1,1 @@
+print('kiram dahanet mamad')
